@@ -53,6 +53,8 @@ The system can be optimized using different APIs.
 We could add a graphical user interface.
 We could avoid the use of an external API.
 We could improve the system creating more modules for improve reading, listening and writing skills.
+The system can be addapted to practice any other language.
+The system can be integrated in any other teaching method.
 
 
 ## Acknowledgments
