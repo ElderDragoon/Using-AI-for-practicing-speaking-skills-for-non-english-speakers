@@ -1,4 +1,4 @@
-## Project Title
+# Project Title
 
 Using AI for practicing speaking skills for non-english speakers
 
