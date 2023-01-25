@@ -6,6 +6,9 @@ Using AI for practicing speaking skills for non-english speakers
 ## Summary
 
 This project try to use voice recognition system from Google in order to improve speaking skills when you are not able to practice with another person.
+The idea is to use AI to solve one of the most commons problems english learner used to face.
+This is just an starting point and is open to any improvement.
+This is part of Building AI course project.
 
 
 ## Background
